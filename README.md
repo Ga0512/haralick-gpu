@@ -2,6 +2,9 @@
 
 GPU-accelerated Haralick texture extraction for GeoTIFF images using PyTorch.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4c045eb2-81fb-439d-8308-2c4d80de22ea" />
+
+
 ## Installation
 
 GDAL must be installed via precompiled wheels:
